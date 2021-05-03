@@ -1,5 +1,6 @@
 const movies = [
   {
+    id: 0,
     url:
       'https://cdn.shopify.com/s/files/1/1416/8662/products/psycho_1960_linen_original_film_art_1200x.jpg?v=1593534654',
     title: 'Psycho',
@@ -9,6 +10,7 @@ const movies = [
     subgenre: 'psychological horror'
   },
   {
+    id: 1,
     url:
       'https://m.media-amazon.com/images/M/MV5BMTlhNmVkZGUtNjdjOC00YWY3LTljZWQtMTY1YWFhNGYwNDQwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg',
     title: 'Carrie',
@@ -18,6 +20,7 @@ const movies = [
     subgenre: 'supernatural horror'
   },
   {
+    id: 2,
     url:
       'https://cdn.shopify.com/s/files/1/1416/8662/products/alien_1979_original_film_art_5000x.jpg?v=1607111293',
     title: 'Alien',
@@ -27,6 +30,7 @@ const movies = [
     subgenre: 'sci-fi horror'
   },
   {
+    id: 3,
     url:
       'https://images-na.ssl-images-amazon.com/images/I/412nmnEFLVL._AC_.jpg',
     title: 'The Fly',
@@ -36,6 +40,7 @@ const movies = [
     subgenre: 'body horror'
   },
   {
+    id: 4,
     url:
       'https://images-na.ssl-images-amazon.com/images/I/61VVvaQJJvL._AC_SY741_.jpg',
     title: 'Halloween',
@@ -45,6 +50,7 @@ const movies = [
     subgenre: 'slasher'
   },
   {
+    id: 5,
     url:
       'https://m.media-amazon.com/images/M/MV5BMjMzNjMyMjU2M15BMl5BanBnXkFtZTgwMzA3NjQ0MzE@._V1_.jpg',
     title: 'A Girl Walks Home Alone at Night',
@@ -54,6 +60,7 @@ const movies = [
     subgenre: 'supernatural horror'
   },
   {
+    id: 6,
     url:
       'https://images-na.ssl-images-amazon.com/images/I/61cwYyI-c0L._AC_SL1000_.jpg',
     title: 'The Shining',
@@ -63,6 +70,7 @@ const movies = [
     subgenre: 'psychological horror'
   },
   {
+    id: 7,
     url:
       'https://m.media-amazon.com/images/M/MV5BMDUxM2IyYzgtMjU1ZS00Mzc4LWIwMmUtYzczMzM5ZWIzNGUxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
     title: 'Black Christmas',
@@ -72,6 +80,7 @@ const movies = [
     subgenre: 'slasher'
   },
   {
+    id: 8,
     url:
       'https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_.jpg',
     title: 'The Babadook',
@@ -81,6 +90,7 @@ const movies = [
     subgenre: 'psychological horror'
   },
   {
+    id: 9,
     url: 'https://m.media-amazon.com/images/M/MV5BODQ5NDQ0MjkwMF5BMl5BanBnXkFtZTcwNDg1OTU4NQ@@._V1_.jpg',
     title: 'Tucker and Dale vs. Evil',
     description: 'Tucker and Dale vs. Evil, Eli Craig, 2010',
